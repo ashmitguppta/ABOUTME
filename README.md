@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=29DB9E&width=500&lines=Hello+World!+🌍;I'm+Ashmit+Gupta;A+Enthusiastic+Machine +Learning +Engineer!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=29DB9E&width=500&lines=Hello+World!+🌍;I'm+Ashmit+Gupta;A+Enthusiastic+Machine+Learning+Engineer!"/>
 
 ---
 
